@@ -18,3 +18,5 @@
 * You can view the books on clicking the name.
 
 ### Note : The annoying problem is that the Nintendo's web browser can be accessed only for 20 mins, after that it closes and redirects to the Network settings. Again connecting to the network is needed.
+
+credits: uses pdf.js -> https://mozilla.github.io/pdf.js/
