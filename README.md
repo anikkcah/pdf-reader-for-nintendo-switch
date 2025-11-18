@@ -1,6 +1,6 @@
 Steps to use :
 
-Note : change the 'application-example.properties' file to 'application.properties'
+Note : change the 'application-example.properties' file to 'application.properties' and place your own configurations in it.
 
 1. Run this SpringBoot Application in your computer (server).
 3. type "ipconfig" and get your local IP address.
