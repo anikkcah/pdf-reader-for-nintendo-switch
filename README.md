@@ -17,7 +17,7 @@
 * Now goto your local IP and mention the url with port number and you are done!!
 * You can view the books on clicking the name.
 
-* <p><img src = "https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/pdf-reader-for-nintendo-switch.jpg" width="300" height="650" hspace="15"></p>
+* <p><img src = "https://raw.githubusercontent.com/anikkcah/ImageblobsforReadme/master/pdf_reading_in_nintendo_switch.jpg" width="300" height="650" hspace="15"></p>
 
 ### Note : The annoying problem is that the Nintendo's web browser can be accessed only for 20 mins, after that it closes and redirects to the Network settings. Again connecting to the network is needed.
 
