@@ -1,5 +1,10 @@
 # NINTENDO SWITCH PDF READER
 
+## Pre-requisites
+
+* make folders 'uploads/pdfs/' in the root for storing the uploaded the pdf files.
+* change the 'application-example.properties' file to 'application.properties' and place your own configurations in it.
+
 ## Steps to use :
 
 * Run this Java SpringBoot Application in your computer (server).
@@ -12,5 +17,4 @@
 * Now goto your local IP and mention the url with port number and you are done!!
 * You can view the books on clicking the name.
 
-### Note 1 : change the 'application-example.properties' file to 'application.properties' and place your own configurations in it.
-### Note 2 : The annoying problem is that the Nintendo's web browser can be accessed only for 20 mins, after that it closes and redirects to the Network settings. Again connecting to the network is needed.
+### Note : The annoying problem is that the Nintendo's web browser can be accessed only for 20 mins, after that it closes and redirects to the Network settings. Again connecting to the network is needed.
