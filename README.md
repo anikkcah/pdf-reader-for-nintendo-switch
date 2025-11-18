@@ -2,7 +2,7 @@ Steps to use :
 
 Note : change the 'application-example.properties' file to 'application.properties' and place your own configurations in it.
 
-1. Run this SpringBoot Application in your computer (server).
+1. Run this Java SpringBoot Application in your computer (server).
 3. type "ipconfig" and get your local IP address.
 5. as per the application.properties the server runs on port 8080(it is configurable), make sure to check the database connection too using 'MySQL Workbench'.
 6. Goto Web-browser from your computer, type url+port number and search.
